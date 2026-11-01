@@ -1,0 +1,5 @@
+/* Tailwind v4: basta con importarlo. Está disponible en todo el proyecto. */
+@import "tailwindcss";
+
+/* El diseño propio del proyecto vive en ./styles/app.css */
+@import "./styles/app.css";
